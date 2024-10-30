@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: qr_widget.class.php
+msgid "Alt for QR code img"
+msgstr ""
+
+#. Text in echo
+#: qr_widget.class.php
+msgid "Error connection code (ECC)"
+msgstr ""
+
+#. Text in echo
+#: qr_widget.class.php
+msgid "H (high, ~30% destroyed data may be corrected)"
+msgstr ""
+
+#. Text in echo
+#: qr_widget.class.php
+msgid "L (low, ~7% destroyed data may be corrected)"
+msgstr ""
+
+#. Text in echo
+#: qr_widget.class.php
+msgid "M (middle, ~15% destroyed data may be corrected)"
+msgstr ""
+
+#. Text in echo
+#: qr_widget.class.php
+msgid "Q (quality, ~25% destroyed data may be corrected)"
+msgstr ""
+
+#. Text in function
+#: qr_widget.class.php
+msgid "QR CODE"
+msgstr ""
+
+#. Text in echo
+#: qr_widget.class.php
+msgid "Security margin (max:50px)"
+msgstr ""
+
+#. Text in echo
+#: qr_widget.class.php
+msgid "Size of the square (max: 1000x1000px)"
+msgstr ""
+
+#. Text in function
+#: qr_widget.class.php
+msgid "This widget adds a QR Code to your posts"
+msgstr ""
+
+#. Text in echo
+#: qr_widget.class.php
+msgid "Which background color?"
+msgstr ""
+
+#. Text in echo
+#: qr_widget.class.php
+msgid "Which color?"
+msgstr ""
+
+#. Text in echo
+#: qr_widget.class.php
+msgid "Which format?"
+msgstr ""
+
+#. Text in echo
+#: qr_widget.class.php
+msgid "Which zone? (0 for quiet zone by default)"
+msgstr ""
+
+#. Text in echo
+#: qr_widget.class.php
+msgid "Widget Title"
+msgstr ""
